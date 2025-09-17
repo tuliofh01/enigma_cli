@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: enigma_cli
+Version: 1.1.1
+Summary: A reliable Credentials Manager CLI Application: it targets CLI environments,
+Author-email: Túlio Horta <tuliofh01@gmail.com>
+License: MIT
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: requests<3,>=2.32
+Requires-Dist: PyYAML<7,>=6
+Requires-Dist: PyQt5<6,>=5.15
+Requires-Dist: Pillow<11,>=10
+Provides-Extra: dev
+Requires-Dist: pytest<9,>=8; extra == "dev"
+Requires-Dist: mypy<2,>=1; extra == "dev"

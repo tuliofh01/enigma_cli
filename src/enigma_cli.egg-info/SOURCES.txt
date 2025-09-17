@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+application/src/enigma_cli.egg-info/PKG-INFO
+application/src/enigma_cli.egg-info/SOURCES.txt
+application/src/enigma_cli.egg-info/dependency_links.txt
+application/src/enigma_cli.egg-info/entry_points.txt
+application/src/enigma_cli.egg-info/requires.txt
+application/src/enigma_cli.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+requests<3,>=2.32
+PyYAML<7,>=6
+PyQt5<6,>=5.15
+Pillow<11,>=10
+
+[dev]
+pytest<9,>=8
+mypy<2,>=1
