@@ -2,7 +2,8 @@
 ### Version: 1.1.1 - (17/sep/2025)
 
 > This is my 1st own open-source P.C.M.A. It targets CLI environments, such as Linux Terminals or the Windows Command Line.
-> PS: Feel free to use, modify or distribute it non-commercially and freely. Plase, always remember to credit us. Thank you!
+> Also feel free to use, modify or distribute it non-commercially and freely, but, please, always remember to credit us in
+> order to support our jobs as developers and keep our community active. Thank you!
 
 ## About the app:
 The application was solely developed in Python. It reasonably implements military grade cryptography while being portable and light.
@@ -13,4 +14,5 @@ with different credentials themselves. Therefore X cannot possibly decrypt nor a
 in order to prevent malware/hacker attacks and make sabbotage by any internal parties much harder.
 
 #### Author: Túlio Horta
+
 
